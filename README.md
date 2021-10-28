@@ -23,8 +23,8 @@
 ## 	:bar_chart: &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="460em" src="https://github-readme-stats.vercel.app/api?username=izadoramatias&show_icons=true&theme=synthwave" alt="izadora matias stats"/>
-<img width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadoramatias&layout=compact&theme=synthwave" alt="izadora matias most languages"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api?username=izadoramatias&show_icons=true&theme=synthwave" alt="izadora matias stats"/>
+<img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izadoramatias&layout=compact&theme=synthwave" alt="izadora matias most languages"/>
 </p>
 <br>
 <br>
