@@ -1,13 +1,15 @@
-<a width="250px" target="_blank" href="https://izadoramatias.github.io/badge-nlwHeat/">
-  <img align="right" src="https://user-images.githubusercontent.com/71532985/139162361-9bf73799-094d-4698-8daa-bb755578d4ba.png" />
-</a>
 
-## Hi, dev :handshake: I'm Izadora 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izadora&color=blueviolet" alt="Profile views" /> </p>
+<p align="center">
+  <img width="75%" src="https://github.com/izadoramatias/izadoramatias/blob/main/bg-readme.gif" />
+</p>
+
+##
 
 - :books: student of programming for web
 - :school: studying at FATEC
 - :rocket: looking for the next level
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izadora&color=blueviolet" alt="Profile views" /> </p>
+
 <br>
 <br>
 
