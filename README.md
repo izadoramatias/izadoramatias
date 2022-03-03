@@ -5,10 +5,21 @@
 
 ##
 
-- :books: student of programming for web
-- :school: studying at FATEC
-- :rocket: looking for the next level
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izadora&color=blueviolet" alt="Profile views" /> </p>
+<br>
+<br>
+
+```js
+ 
+ const me = {
+    name = 'izadora',
+    age = '19',
+    occupation = 'web developer',
+    hobby = 'books and games'   
+  }
+  
+  console.log('boost yourself')
+
+```
 
 <br>
 <br>
