@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/izadora-matias" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-izadoramatias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/_izadora.matias?utm_medium=copy_link" target="_blank">
+  <a href="https://www.instagram.com/izmatl/?utm_medium=copy_link" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-izadoramatias-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
  
