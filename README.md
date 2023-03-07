@@ -12,7 +12,7 @@
  
  const me = {
     name = 'izadora',
-    age = '19',
+    age = '20',
     occupation = 'web developer',
     hobby = 'books and games'   
   }
