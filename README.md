@@ -5,6 +5,8 @@
 
 <br>
 
+![Minha fazendinha](https://raw.githubusercontent.com/izadoramatias/commit-farm/main/assets/farm.svg)
+
 ## 	:bar_chart: &nbsp;GitHub Analytics
 
 <p align="left">
